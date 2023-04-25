@@ -1,1 +1,2 @@
 algortimo "café"
+pegar o filtro
